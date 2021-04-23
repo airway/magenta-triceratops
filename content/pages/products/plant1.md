@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '49.40'
-title: 30 day supply of Bokashi Bran
+title: 2lb Bokashi Bran
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
