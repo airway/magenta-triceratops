@@ -2,9 +2,12 @@
 id: '1'
 title: Trial Size Bokashi Bran
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Bokashi Bran can be used in both indoor and outdoor applications, including
+  container gardening, raised beds, or large scale operations.Bokashi Bran is
+  the perfect additive for any existing compost routine. It helps breakdown
+  materials making them easier to break down, freeing vitamins and minerals for
+  plants in containers or gardens near you that need a little help getting
+  started.
 price: '17.99'
 order: 1
 featured: true
