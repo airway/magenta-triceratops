@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Planty
+    headline: About Us
     subtitle: >
       We're a small composting company based in Bellaire, Michigan that helps
       other growers make their soil healthy and more beneficial. You'll be
