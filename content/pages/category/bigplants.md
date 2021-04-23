@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Bokashi Bran
 layout: category
 order: 1
 seo:
