@@ -3,7 +3,7 @@ title: Bokashi Bran
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: Bokashi Bran
   description: This is the store page
   extra:
     - name: 'og:type'
