@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Bokashi Bran is like a probiotic for your soil.
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      You'll be amazed at what a little Bokashi Bran can do in your life.
     actions:
       - title: See all items
         url: /store
