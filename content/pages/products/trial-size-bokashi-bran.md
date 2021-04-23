@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: 2lb Bokashi Bran
+title: Trial Size Bokashi Bran
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
