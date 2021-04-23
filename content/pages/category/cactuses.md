@@ -1,7 +1,7 @@
 ---
 title: Cactuses
 layout: category
-order: 2
+order: 1
 seo:
   title: Cactuses
   description: This is the store page
