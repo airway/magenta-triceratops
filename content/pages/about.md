@@ -8,7 +8,7 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: About Us
     subtitle: >
-      We're a small composting company based in Bellaire, Michigan that helps
+      We're a small composting company born in Bellaire, Michigan that helps
       other growers make their soil healthy and more beneficial. You'll be
       amazed at what a little Bokashi Bran can do in your life.
   - type: bulletpoints_section
