@@ -27,6 +27,13 @@
             "title": "Applications",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "domain": "https://magenta-triceratops-33abb.netlify.app"
